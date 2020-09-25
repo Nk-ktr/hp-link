@@ -25,7 +25,7 @@
 
         <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
             <div class="container">
-                <a class="navbar-brand" href="/user">@yield('title')</a>
+                <a class="navbar-brand" href="/">@yield('title')</a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=
                 "#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label=
